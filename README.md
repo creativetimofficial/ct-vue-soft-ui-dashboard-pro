@@ -1,6 +1,6 @@
 # [Vue Soft UI Dashboard PRO](http://demos.creative-tim.com/vue-soft-ui-dashboard-pro/?ref=readme-vsudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro&text=Check%20Vue%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/589/original/vue-soft-ui-dashboard-pro.jpg)
 
@@ -35,11 +35,9 @@ View [example pages here](https://demos.creative-tim.com/vue-soft-ui-dashboard-p
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [noUISlider](https://refreshless.com/nouislider/) - JavaScript Range Slider
 - [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
 - [Flatpickr](https://flatpickr.js.org/) - Useful library used to select date
 - [Choices JS](https://joshuajohnson.co.uk/Choices/) - A nice plugin that select elements with intuitive multiselection and searching but also for managing tags.
-- [CountUp JS](https://inorganik.github.io/countUp.js/) - A dependency-free, lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.
 - [Charts Js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
 - [FullCalendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar
 - [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag’n’drop file uploads with image previews.
@@ -123,7 +121,7 @@ vue-soft-ui-dashboard-pro
     │   │   ├── js
     │   │   └── scss
     │   ├── components
-    │   │   ├── Icon.vue
+    │   │   ├── Icon
     │   │   ├── VsudAlert.vue
     │   │   ├── VsudAvatar.vue
     │   │   ├── VsudBadge.vue
@@ -146,6 +144,7 @@ vue-soft-ui-dashboard-pro
     │   │   ├── Sidenav
     │   │   ├── Breadcrumbs.vue
     │   │   ├── Calendar.vue
+    │   │   ├── Configurator.vue
     │   │   ├── Footer.vue
     │   │   └── Globe.vue
     │   ├── router
