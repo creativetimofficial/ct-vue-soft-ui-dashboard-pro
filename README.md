@@ -1,6 +1,6 @@
 # [Vue Soft UI Dashboard PRO](http://demos.creative-tim.com/vue-soft-ui-dashboard-pro/?ref=readme-vsudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro&text=Check%20Vue%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/589/original/vue-soft-ui-dashboard-pro.jpg)
 
@@ -122,20 +122,20 @@ vue-soft-ui-dashboard-pro
     │   │   └── scss
     │   ├── components
     │   │   ├── Icon
-    │   │   ├── VsudAlert.vue
-    │   │   ├── VsudAvatar.vue
-    │   │   ├── VsudBadge.vue
-    │   │   ├── VsudButton.vue
-    │   │   ├── VsudCheckbox.vue
-    │   │   ├── VsudInput.vue
-    │   │   ├── VsudPagination.vue
-    │   │   ├── VsudPaginationItem.vue
-    │   │   ├── VsudProgress.vue
-    │   │   ├── VsudRadio.vue
-    │   │   ├── VsudSnackbar.vue
-    │   │   ├── VsudSocialButton.vue
-    │   │   ├── VsudSwitch.vue
-    │   │   └── VsudTextarea.vue
+    │   │   ├── SoftAlert.vue
+    │   │   ├── SoftAvatar.vue
+    │   │   ├── SoftBadge.vue
+    │   │   ├── SoftButton.vue
+    │   │   ├── SoftCheckbox.vue
+    │   │   ├── SoftInput.vue
+    │   │   ├── SoftPagination.vue
+    │   │   ├── SoftPaginationItem.vue
+    │   │   ├── SoftProgress.vue
+    │   │   ├── SoftRadio.vue
+    │   │   ├── SoftSnackbar.vue
+    │   │   ├── SoftSocialButton.vue
+    │   │   ├── SoftSwitch.vue
+    │   │   └── SoftTextarea.vue
     │   ├── examples
     │   │   ├── Cards
     │   │   ├── Charts
